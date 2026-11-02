@@ -8,6 +8,6 @@
   "author": "Strica",
   "license": "Apache-2.0",
   "dependencies": {
-    "zod": "4.3.6"
+    "zod": "4.6.6"
   }
 }
